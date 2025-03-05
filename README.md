@@ -6,7 +6,9 @@ matricula 1557309
 ![Captura de tela 2025-02-16 222533](https://github.com/user-attachments/assets/08e161b6-c72d-47e3-a70a-8cd0461b6b31)
 meu primeiro projeto https://github.com/paulabessa03/ProjetoWeb1.git
 
-alteração alteração 
+PAULA BESSA - MATRICULA 1557309C - CURRICULO 
+![alt text](<print da tela curriculo.png>)
+file:///C:/Users/paula/OneDrive/Desktop/PROJETOS%20DIW/PROJETO%202/desenvolvimento-interfaces-web-paulabessa03/Public/index.html
 
 
 
